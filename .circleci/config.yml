@@ -2,7 +2,7 @@
 version: 2.1
 
 orbs:
-  python: circleci/python@0.3.2
+  python: circleci/python@dev:fix-cache
 
 jobs:
   build-and-test:
